@@ -1,0 +1,34 @@
+# ROC工具箱 for CAXA 3D
+
+本仓库仅用于发布 ROC工具箱 的安装包，**不包含源码**。
+
+## 下载
+
+前往 [Releases](../../releases) 下载最新版本：
+
+- `ROC_Toolbox_CAXA3D_vX.Y.Z.zip` —— 安装包
+- `ROC_Toolbox_CAXA3D_vX.Y.Z.zip.sha256.txt` —— SHA-256 校验值
+
+## 安装
+
+1. 解压下载的 zip 包
+2. 关闭所有 CAXA 3D 窗口
+3. 右键 `install.bat`，选择“以管理员身份运行”
+4. 启动 CAXA 3D，插件会自动出现在“ROC工具箱”面板
+
+## 环境要求
+
+- CAXA 3D 实体设计 2024 及以上版本（x64）
+- Windows 10 / 11
+
+## 文件校验
+
+```powershell
+certutil -hashfile ROC_Toolbox_CAXA3D_v1.3.4.zip SHA256
+```
+
+## 说明
+
+- 第三方扩展工具，与宿主软件官方无关联
+- 个人非商用免费使用
+- 商用授权与功能定制请联系：191232796@qq.com

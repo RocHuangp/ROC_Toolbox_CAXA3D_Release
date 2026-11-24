@@ -8,6 +8,8 @@
 <img width="2545" height="1496" alt="批量隐藏显示标准件" src="https://github.com/user-attachments/assets/a804a0d6-9e3f-4f42-9b71-535f2aab2371" />
 EXB转PDF
 <img width="2545" height="1496" alt="EXB转PDF" src="https://github.com/user-attachments/assets/e98eecfe-c5ba-4a49-affb-e7384969e47d" />
+零部关联工程图批量转PDF
+<img width="2545" height="1496" alt="零部关联工程图批量转PDF" src="https://github.com/user-attachments/assets/70cedc4b-0ef3-4b1f-98f5-fa2267adc1e3" />
 
 
 ## 下载

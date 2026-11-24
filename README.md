@@ -2,6 +2,11 @@
 
 本仓库仅用于发布 ROC工具箱 的安装包，**不包含源码**。
 
+<img width="2545" height="1496" alt="随机上色" src="https://github.com/user-attachments/assets/6c78676d-c48a-48bd-a105-6b9bbfa7c625" />
+
+<img width="2545" height="1496" alt="批量隐藏显示标准件" src="https://github.com/user-attachments/assets/a804a0d6-9e3f-4f42-9b71-535f2aab2371" />
+
+
 ## 下载
 
 前往 [Releases](../../releases) 下载最新版本：

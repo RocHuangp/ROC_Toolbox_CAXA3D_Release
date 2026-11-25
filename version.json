@@ -1,7 +1,7 @@
 {
-  "latest": "1.3.6.0",
-  "sha256": "6D25DC55724C2DDAF187C3D2B5171B18D4E31FA819A86D358D9DC6E98AFD6CFD",
-  "notes": "在线更新功能上线：启动静默检测 + 手动检查更新，Gitee 优先 / GitHub 备用，SHA-256 校验。",
-  "url_gitee": "https://gitee.com/rochuangpeng/ROC_Toolbox_Release/releases/download/caxa3d-v1.3.6/ROC_Toolbox_CAXA3D_v1.3.6.zip",
-  "url_github": "https://github.com/RocHuangp/ROC_Toolbox_CAXA3D_Release/releases/download/v1.3.6/ROC_Toolbox_CAXA3D_v1.3.6.zip"
+  "latest": "2.0.0.0",
+  "sha256": "FAC14B3307762F98299E61E37D0BF3EC506ED1C2031D2C66ED19302B814DC62D",
+  "notes": "v2.0.0 稳定版：修复检查更新弹窗 bug，在线更新功能稳定可用；调整工具栏按钮顺序。",
+  "url_gitee": "https://gitee.com/rochuangpeng/ROC_Toolbox_Release/releases/download/caxa3d-v2.0.0/ROC_Toolbox_CAXA3D_v2.0.0.zip",
+  "url_github": "https://github.com/RocHuangp/ROC_Toolbox_CAXA3D_Release/releases/download/v2.0.0/ROC_Toolbox_CAXA3D_v2.0.0.zip"
 }

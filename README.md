@@ -14,7 +14,7 @@ EXB转PDF
 
 ## 下载
 
-前往 [Releases](../../releases) 下载最新版本：
+当前最新版本：v1.3.5（前往 [Releases](../../releases) 查看全部版本）：
 
 - `ROC_Toolbox_CAXA3D_vX.Y.Z.zip` —— 安装包
 - `ROC_Toolbox_CAXA3D_vX.Y.Z.zip.sha256.txt` —— SHA-256 校验值
@@ -34,7 +34,7 @@ EXB转PDF
 ## 文件校验
 
 ```powershell
-certutil -hashfile ROC_Toolbox_CAXA3D_v1.3.4.zip SHA256
+certutil -hashfile ROC_Toolbox_CAXA3D_v1.3.5.zip SHA256
 ```
 
 ## 说明

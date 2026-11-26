@@ -1,7 +1,7 @@
 {
-  "latest": "2.0.0.0",
-  "sha256": "FAC14B3307762F98299E61E37D0BF3EC506ED1C2031D2C66ED19302B814DC62D",
-  "notes": "v2.0.0 稳定版：修复检查更新弹窗 bug，在线更新功能稳定可用；调整工具栏按钮顺序。",
-  "url_gitee": "https://gitee.com/rochuangpeng/ROC_Toolbox_Release/releases/download/caxa3d-v2.0.0/ROC_Toolbox_CAXA3D_v2.0.0.zip",
-  "url_github": "https://github.com/RocHuangp/ROC_Toolbox_CAXA3D_Release/releases/download/v2.0.0/ROC_Toolbox_CAXA3D_v2.0.0.zip"
+  "latest": "2.2.0.0",
+  "sha256": "59D466B26351E7842078B97F4B4222B378E7E1C2E5930D81EC84C6024364CA38",
+  "notes": "v2.2.0：打开对话框新增文件名检索；在线更新流程优化，确认后自动关闭 CAXA 并安装。",
+  "url_gitee": "https://gitee.com/rochuangpeng/ROC_Toolbox_Release/releases/download/caxa3d-v2.2.0/ROC_Toolbox_CAXA3D_v2.2.0.zip",
+  "url_github": "https://github.com/RocHuangp/ROC_Toolbox_CAXA3D_Release/releases/download/v2.2.0/ROC_Toolbox_CAXA3D_v2.2.0.zip"
 }
